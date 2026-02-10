@@ -214,8 +214,8 @@
 
   # the text that shows up in the corner when hovering some line with errors in it
   # also the style of the lines with such status, both here in the main window and for instance in the diagnostic picker window (spacebar,d)
-"warning" =                                   { bg="warning", fg="s0" }
-"error" =                                     { bg="error", fg="s9", modifiers=["bold"] }
+"warning" =                                   { bg="warning_second", fg="s0" }
+"error" =                                     { bg="error_second", fg="s9", modifiers=["bold"] }
 "info" =                                      { bg="info", fg="s1" }
 "hint" =                                      { bg="hint", fg="s9" }
 
@@ -224,7 +224,7 @@
 "diagnostic.info" =                           { bg="info", fg="s0", modifiers=["bold"] }
 "diagnostic.warning" =                        { bg="warning", fg="s0", modifiers=["bold"] }
   # lines with compile errors
-"diagnostic.error" =                          { bg="error", fg="s9", modifiers=["bold"] }
+"diagnostic.error" =                          { bg="error", fg="s8", modifiers=["bold"] }
 "diagnostic.unnecessary" =                    { bg="s6" }
 "diagnostic.deprecated" =                     { modifiers=["crossed_out"] }
   # snippet placeholder
@@ -249,7 +249,9 @@
 
 [palette]
 error = "#ff0000"
+error_second = "#cc0000"
 warning = "#ffff70"
+warning_second = "#dcdc60"
 hint = "#1368ca"
 info = "#00ff00"
 red = "#a93636"
