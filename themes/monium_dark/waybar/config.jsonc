@@ -5,22 +5,51 @@
     "position": "top",
     "modules-left": [
         // "workspaces"
-        "tray",
+        "tray", // niri
+        "ext/workspaces" // MangoWC
+        // "dwl/window" // MangoWC
     ],
     "modules-center": [
         "clock",
     ],
+    "custom/power": {
+    	"format" : "⏻ ",
+    	"tooltip": false,
+    	"menu": "on-click",
+    	"menu-file": "~/.config/waybar/power_menu.xml",
+    	"menu-actions": {
+    		"shutdown": "shutdown",
+    		"reboot": "reboot",
+    		"suspend": "systemctl suspend",
+    		"hibernate": "systemctl hibernate",
+    	},
+    },
     "modules-right": [
         "bluetooth",
         "network",
         "pulseaudio",
         "backlight",
         "battery",
+        "custom/power"
         ],
     "font": "FiraCode Nerd Font, 12",
     "height": 30,
     "padding": 2,
     "spacing": 2,
+
+    // MangoWC.........
+    "ext/workspaces": {
+     "format": "{icon}",
+     "ignore-hidden": true,
+     "on-click": "activate",
+     "on-click-right": "deactivate",
+     "sort-by-id": true,
+    },
+    "dwl/window": {
+     "format": "[{layout}] {title}"
+    },
+    // ..........
+    
     "tray-position": "left",
     "tray-spacing": 10,
     "tray-padding": 10,
@@ -32,16 +61,16 @@
     "network": {
         // "interface": "wlp2*", // (Optional) To force the use of this interface
         "format-wifi": "  {essid} ({signalStrength}%)",
-        "format-alt": "  {ifname} {essid} ({signalStrength}%)"
+        "format-alt": "  {ifname} {essid} ({signalStrength}%)",
         "format-ethernet": "",
-        "format-linked": "#",
-        "format-disconnected": "󰖪 no connection",
+        "format-linked": " (linked)",
+        "format-disconnected": "󰖪 (no connection)",
     },
     "battery": {
         "states": {
             "good": 80,
             "warning": 30,
-            "critical": 15
+            "critical": 12
         },
         "format": "{icon} {capacity}%",
         "format-charging": "󱊥 {capacity}%",
@@ -80,7 +109,7 @@
             "on-scroll-up"      : "shift_up",
             "on-scroll-down"      : "shift_down"
         },
-        "interval": 10
+        "interval": 1
     },
     "pulseaudio": {
         "format": "{icon} {volume}",
