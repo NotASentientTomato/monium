@@ -1,13 +1,13 @@
 # Layout objectives
-- keep common OS and app keys (c (copy), v (paste), d (duplicate), s (save), z (undo) on the left keyboard so when using GUI apps the right hand do not need to leave the mouse.
-- get 'h' 'l' 'k' 'j' on the left keyboard to move between windows in MangoWC without taking the right hand from the mouse. 
-- maintaining a somewhat sane layout for VIM/Helix motions
-- minimize 5th and 6th colomns to minimize seqential index finger travel over the 4th to 5th, etc. 
-- rolls
+- Keep common OS and app keys (c (copy), v (paste), d (duplicate), s (save), z (undo) on the left keyboard so when using GUI apps the right hand do not need to leave the mouse.
+- Get 'h' 'l' 'k' 'j' on the left keyboard to move between windows in MangoWC without taking the right hand from the mouse. 
+- Maintain a somewhat sane layout for VIM/Helix motions
+- Minimize 5th and 6th colomns to minimize seqential index finger travel over the 4th to 5th, etc. 
+- Rolls
 
 # Reasons to hate the Monium layouts 
 - if you are coming from querty or similar, you will find you use your pinky and ring finger more, and this might be uncomfortable. 
-- e-y movement is horrible. 
+- 'e-y' movement is horrible. 
 
 # Observations
 Monium_v was designed after Cyanophage's Playground scoring system to see how low I could take the layout I already was working on. 
@@ -29,10 +29,10 @@ Total word effort 898.5, rank #11 (rank #1 among non-e/r mods).
 https://cyanophage.github.io/playground.html?layout=vgcwzqfouy-hstrkxnaei%27bmdlj%3Bp%2C.%2F%5C%5E&mode=ergo&lan=english&thumb=l 
 
 ## Reasons to hate Monium_t 
-- less sane VIM/HELIX motion layout, but there are way worse.
+- Less sane VIM/HELIX motion layout, but there are way worse.
 
 ## Reasons to like Monium_t 
-- meeh. 
+- Meeh. 
 
 # Monium_v V1.0 (VIM/HELIX optimized)
 ```
@@ -51,6 +51,6 @@ https://cyanophage.github.io/playground.html?layout=bwhlzqfouy-csrtkxnaei%27gvmd
 - 'l-d'.
 
 ## Reasons to like Monium_v
-- more sane VIM/Helix motions
+- More sane VIM/Helix motions
 - 'c' on pinky is less work.
 - 'c-h', 'g-h', 'w-h', 's-h', 't-h' feels really good.
