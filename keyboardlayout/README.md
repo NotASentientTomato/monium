@@ -25,6 +25,7 @@ b m d l j  ; p , . /
 https://cyanophage.github.io/playground.html?layout=vgcwzqfouy-hstrkxnaei%27bmdlj%3Bp%2C.%2F%5C%5E&mode=ergo&lan=english&thumb=l 
 
 Word effort 417.16, rank #5 (rank #1 among non-e/r mods).
+
 Total word effort 898.5, rank #11 (rank #1 among non-e/r mods).
 
 ## Reasons to hate Monium_t 
@@ -43,6 +44,7 @@ g v m d j  ; p , . /
 https://cyanophage.github.io/playground.html?layout=bwhlzqfouy-csrtkxnaei%27gvmdj%3Bp%2C.%2F%5C%5E&mode=ergo&lan=english&thumb=l
 
 Word effort 424.11, rank #7 (rank #1 among non-e/r mods)
+
 Total word effort 939.7, rank #17 (rank #6 among non-e/r mods)
 
 ## Reasons to hate Monium_v 
