@@ -13,7 +13,6 @@ This has resulted in two versions, where Monium_t is a type optized layout that 
 - Maintain a somewhat sane layout for VIM/Helix motions
 - Minimize 5th and 6th colomns to minimize seqential index finger travel over the 4th to 5th, etc. 
 - Rolls
-![Uploading layout-qwerty.svg…]()
 
 # Reasons to hate the Monium layouts 
 - if you are coming from querty or similar, you will find you use your pinky and ring finger more, and this might be uncomfortable. 
