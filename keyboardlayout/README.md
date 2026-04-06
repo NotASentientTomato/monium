@@ -21,6 +21,7 @@ v g c w z  q f o u y
 h s t r k  x n a e i
 b m d l j  ; p , . /
 ```
+<img width="989" height="785" alt="image" src="https://github.com/user-attachments/assets/01fcb7d9-f0dd-4d6f-9e81-7781127b6f44" />
 
 ## Ranking
 Word effort 417.16, rank #5 (rank #1 among non-e/r mods).
