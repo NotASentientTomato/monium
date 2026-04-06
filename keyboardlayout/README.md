@@ -1,3 +1,9 @@
+# Layout motivations
+I came from 2.5 years of using Colemak-Dh and a few months of using Graphite. I started creating my own keyboard layout that would better fit me own needs and took what I liked from both the layouts. 
+
+After about a year of experimenting with my own layout, I put what I had into Cyanophage's Playground to see how it scored, and used it as a guide to optimize it. 
+This has resulted in two versions, where Monium_t is a type optized layout that in many cases uses the solutions that helps its score, but not always, - and Monium_V which is closer to what I had going earlier on which is more VIM/Helix motion friendly. 
+
 # Layout objectives
 - Keep common OS and app keys (c (copy), v (paste), d (duplicate), s (save), z (undo) on the left keyboard so when using GUI apps the right hand do not need to leave the mouse.
 - Get 'h' 'l' 'k' 'j' on the left keyboard to move between windows in MangoWC without taking the right hand from the mouse. 
