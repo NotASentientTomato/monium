@@ -5,7 +5,7 @@ After about a year of experimenting with my own layout, I put what I had into Cy
 This has resulted in two versions, where Monium_t is a type optimized layout that in many cases uses the solutions that helps its score, but not always, - and Monium_V which is closer to what I had going earlier on which is more VIM/Helix motion friendly. 
 
 <img width="1104" height="378" alt="Moosy Research Alphaheat image" src="https://github.com/user-attachments/assets/cda649e4-2252-435a-8bf3-ae001d8ad04c" />
-
+https://sites.google.com/view/keyboards/tools/alphaheat
 
 # Layout objectives
 - Keep common OS and app keys (c (copy), v (paste), d (duplicate), s (save), z (undo) on the left keyboard so when using GUI apps the right hand do not need to leave the mouse.
