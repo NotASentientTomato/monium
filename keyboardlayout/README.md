@@ -11,6 +11,7 @@
 
 # Observations
 Monium_v was designed after Cyanophage's Playground scoring system to see how low I could take the layout I already was working on. 
+
 While it scores better than Monium_v, so far, Monium_v which is closer to what I had previously has felt better for me. 
 I will try using Monium_v for the next six months, and if I feel like it does not improve then I will go back to Monium_v, possibly with a version 2.0. 
 
