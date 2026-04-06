@@ -2,7 +2,7 @@
 I came from 2.5 years of using Colemak-Dh and a few months of using Graphite. I started creating my own keyboard layout that would better fit me own needs and took what I liked from both the layouts. 
 
 After about a year of experimenting with my own layout, I put what I had into Cyanophage's Playground to see how it scored, and used it as a guide to optimize it. 
-This has resulted in two versions, where Monium_t is a type optized layout that in many cases uses the solutions that helps its score, but not always, - and Monium_V which is closer to what I had going earlier on which is more VIM/Helix motion friendly. 
+This has resulted in two versions, where Monium_t is a type optimized layout that in many cases uses the solutions that helps its score, but not always, - and Monium_V which is closer to what I had going earlier on which is more VIM/Helix motion friendly. 
 
 <img width="1104" height="378" alt="Moosy Research Alphaheat image" src="https://github.com/user-attachments/assets/cda649e4-2252-435a-8bf3-ae001d8ad04c" />
 
