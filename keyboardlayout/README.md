@@ -22,13 +22,12 @@ h s t r k  x n a e i
 b m d l j  ; p , . /
 ```
 <img width="989" height="785" alt="image" src="https://github.com/user-attachments/assets/01fcb7d9-f0dd-4d6f-9e81-7781127b6f44" />
+https://cyanophage.github.io/playground.html?layout=vgcwzqfouy-hstrkxnaei%27bmdlj%3Bp%2C.%2F%5C%5E&mode=ergo&lan=english&thumb=l  
 
 ## Ranking
 Word effort 417.16, rank #5 (rank #1 among non-e/r mods).
 
 Total word effort 898.5, rank #11 (rank #1 among non-e/r mods).
-
-https://cyanophage.github.io/playground.html?layout=vgcwzqfouy-hstrkxnaei%27bmdlj%3Bp%2C.%2F%5C%5E&mode=ergo&lan=english&thumb=l 
 
 ## Reasons to hate Monium_t 
 - Less sane VIM/HELIX motion layout, but there are way worse.
@@ -43,13 +42,12 @@ c s r t k  x n a e i
 g v m d j  ; p , . /
 ```
 <img width="1012" height="778" alt="image" src="https://github.com/user-attachments/assets/9ac6a0c4-6ebf-4d4e-83a7-62e1c97add6c" />
+https://cyanophage.github.io/playground.html?layout=bwhlzqfouy-csrtkxnaei%27gvmdj%3Bp%2C.%2F%5C%5E&mode=ergo&lan=english&thumb=l
 
 ## Ranking
 Word effort 424.11, rank #7 (rank #1 among non-e/r mods)
 
 Total word effort 939.7, rank #17 (rank #6 among non-e/r mods)
-
-https://cyanophage.github.io/playground.html?layout=bwhlzqfouy-csrtkxnaei%27gvmdj%3Bp%2C.%2F%5C%5E&mode=ergo&lan=english&thumb=l
 
 ## Reasons to hate Monium_v 
 - 'l-d'.
