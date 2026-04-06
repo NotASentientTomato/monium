@@ -41,7 +41,9 @@ https://cyanophage.github.io/playground.html?layout=vgcwzqfouy-hstrkxnaei%27bmdl
 b w h l z  q f o u y
 c s r t k  x n a e i 
 g v m d j  ; p , . /
-``` 
+```
+<img width="1012" height="778" alt="image" src="https://github.com/user-attachments/assets/9ac6a0c4-6ebf-4d4e-83a7-62e1c97add6c" />
+
 ## Ranking
 Word effort 424.11, rank #7 (rank #1 among non-e/r mods)
 
