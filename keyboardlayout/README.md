@@ -44,22 +44,22 @@ Total word effort 898.5, rank #11 (rank #1 among non-e/r mods).
 ## Reasons to like Monium_t 
 - Meeh. 
 
-# Monium_v V1.0 (VIM/HELIX optimized)
+# Monium_v V1.1 (VIM/HELIX optimized)
 ```
-b w h l z  q f o u y
+v g h w z  q f o u y
 c s r t k  x n a e i 
-g v m d j  ; p , . /
+b m d l j  ; p , . /
 ```
 <img width="1012" height="778" alt="image" src="https://github.com/user-attachments/assets/9ac6a0c4-6ebf-4d4e-83a7-62e1c97add6c" />
 https://cyanophage.github.io/playground.html?layout=bwhlzqfouy-csrtkxnaei%27gvmdj%3Bp%2C.%2F%5C%5E&mode=ergo&lan=english&thumb=l
 
 ## Ranking
-Word effort 424.11, rank #7 (rank #1 among non-e/r mods)
+Word effort 416.16, rank #7 (rank #1 among non-e/r mods)
 
-Total word effort 939.7, rank #17 (rank #6 among non-e/r mods)
+Total word effort 936.2, rank #17 (rank #6 among non-e/r mods)
 
-## Reasons to hate Monium_v 
-- 'l-d'.
+## Reasons to hate Monium_v v1.1
+- 'h-l' which in Vim-like editors are cursor left/right are scissored. The strain can be minimized by moving the index and middle finger together up and down. 
 
 ## Reasons to like Monium_v
 - More sane VIM/Helix motions
