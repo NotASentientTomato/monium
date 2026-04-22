@@ -50,7 +50,7 @@ v g h w z  q f o u y
 c s r t k  x n a e i 
 b m d l j  ; p , . /
 ```
-<img width="1012" height="778" alt="image" src="https://github.com/user-attachments/assets/9ac6a0c4-6ebf-4d4e-83a7-62e1c97add6c" />
+<img width="1253" height="994" alt="image" src="https://github.com/user-attachments/assets/a3a3f73f-caff-48fb-a54a-f28409c321e0" />
 https://cyanophage.github.io/playground.html?layout=bwhlzqfouy-csrtkxnaei%27gvmdj%3Bp%2C.%2F%5C%5E&mode=ergo&lan=english&thumb=l
 
 ## Ranking
