@@ -54,7 +54,7 @@ b m d l j  ; p , . /
 https://cyanophage.github.io/playground.html?layout=bwhlzqfouy-csrtkxnaei%27gvmdj%3Bp%2C.%2F%5C%5E&mode=ergo&lan=english&thumb=l
 
 ## Ranking
-Word effort 416.16, rank #7 (rank #1 among non-e/r mods)
+Word effort 417.16, rank #5 (rank #1 among non-e/r mods)
 
 Total word effort 936.2, rank #17 (rank #6 among non-e/r mods)
 
