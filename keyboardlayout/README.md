@@ -4,9 +4,6 @@ I came from 2.5 years of using Colemak-Dh and a few months of using Graphite. Th
 After about a year of experimenting with my own layout, I put what I had into Cyanophage's Playground to see how it scored, and used it as a guide to optimize it. 
 This has resulted in two versions, where Monium_t is a type optimized layout that in many cases uses the solutions that helps its score, but not always, - and Monium_V which is closer to what I had going earlier on which is more VIM/Helix motion friendly. 
 
-<img width="1104" height="378" alt="Moosy Research Alphaheat image" src="https://github.com/user-attachments/assets/cda649e4-2252-435a-8bf3-ae001d8ad04c" />
-https://sites.google.com/view/keyboards/tools/alphaheat
-
 # Layout objectives
 - Keep common OS and app keys (c (copy), v (paste), d (duplicate), s (save), z (undo) on the left keyboard so when using GUI apps the right hand do not need to leave the mouse.
 - Get 'h' 'l' 'k' 'j' on the left keyboard to move between windows in MangoWC without taking the right hand from the mouse. 
@@ -24,22 +21,21 @@ Monium_t was designed after Cyanophage's Playground scoring system to see how lo
 While it scores better than Monium_v, so far, Monium_v which is closer to what I had previously has felt better for me. 
 I will try using Monium_t for the next six months, and if I feel like it does not improve then I will go back to Monium_v, possibly with a version 2.0. 
 
-# Monium_t V1.0 (type optimized)
+# Monium_t V1.1 (type optimized)
 ```
-v g c w z  q f o u y
-h s t r k  x n a e i
-b m d l j  ; p , . /
+v g c w q  / f o u y
+h s r f j  x n a e i
+b m d l z  ; p , . k
 ```
-<img width="989" height="785" alt="image" src="https://github.com/user-attachments/assets/01fcb7d9-f0dd-4d6f-9e81-7781127b6f44" />
-https://cyanophage.github.io/playground.html?layout=vgcwzqfouy-hstrkxnaei%27bmdlj%3Bp%2C.%2F%5C%5E&mode=ergo&lan=english&thumb=l  
+<img width="1042" height="801" alt="image" src="https://github.com/user-attachments/assets/8461d997-c59f-40dd-bad1-ef8f15a70fbb" />
+https://cyanophage.github.io/playground.html?layout=vgcwq%2Ffouy-hsrtjxnaei%3Dbmdlz%3Bp%2C.k%5C%27&mode=ergo&lan=english&thumb=l
 
 ## Ranking
-Word effort 417.16, rank #5 (rank #1 among non-e/r mods).
-
-Total word effort 898.5, rank #11 (rank #1 among non-e/r mods).
+Word effort 397.61, rank #4 (rank #1 among non-e/r mods).
+Total word effort 914.8
 
 ## Reasons to hate Monium_t 
-- Less sane VIM/HELIX motion layout, but there are way worse.
+- Not good for VIM motions, needs to be walked around by using a navigation layer.
 
 ## Reasons to like Monium_t 
 - Meeh. 
