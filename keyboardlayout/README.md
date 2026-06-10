@@ -21,11 +21,11 @@ Monium_t was designed after Cyanophage's Playground scoring system to see how lo
 While it scores better than Monium_v, so far, Monium_v which is closer to what I had previously has felt better for me. 
 I will try using Monium_t for the next six months, and if I feel like it does not improve then I will go back to Monium_v, possibly with a version 2.0. 
 
-# Monium_t V1.1 (type optimized)
+# Monium_t V1.2 (type optimized)
 ```
-v g c w q  / f o u y
-h s r f j  x n a e i
-b m d l z  ; p , . k
+v g d c q  / f o u y
+h s t r j  x n a e i
+b p w l z  ; m , . k
 ```
 <img width="1234" height="1000" alt="image" src="https://github.com/user-attachments/assets/c600605d-9e55-449a-b669-8185610da985" />
 [https://cyanophage.github.io/playground.html?layout=vgdcq%2Ffouy%3Dhstrjxnaei-bpwlz%3Bm.%2Ck%5Cspace&mode=ergo&lan=english&thumb=r](https://cyanophage.github.io/playground.html?layout=vgdcq%2Ffouy%5Ehstrjxnaei-bpwlz%3Bm%2C.k%5Cspace&mode=ergo&lan=english&thumb=r)
