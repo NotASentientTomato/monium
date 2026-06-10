@@ -27,7 +27,7 @@ v g d c q  / f o u y
 h s t r j  x n a e i
 b p w l z  ; m , . k
 ```
-<img width="1234" height="1000" alt="image" src="https://github.com/user-attachments/assets/c600605d-9e55-449a-b669-8185610da985" />
+<img width="1280" height="985" alt="image" src="https://github.com/user-attachments/assets/62c61703-96eb-4167-8727-24c597dbed0d" />
 [https://cyanophage.github.io/playground.html?layout=vgdcq%2Ffouy%3Dhstrjxnaei-bpwlz%3Bm.%2Ck%5Cspace&mode=ergo&lan=english&thumb=r](https://cyanophage.github.io/playground.html?layout=vgdcq%2Ffouy%5Ehstrjxnaei-bpwlz%3Bm%2C.k%5Cspace&mode=ergo&lan=english&thumb=r)
 
 
