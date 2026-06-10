@@ -27,12 +27,13 @@ v g c w q  / f o u y
 h s r f j  x n a e i
 b m d l z  ; p , . k
 ```
-<img width="1042" height="801" alt="image" src="https://github.com/user-attachments/assets/8461d997-c59f-40dd-bad1-ef8f15a70fbb" />
-https://cyanophage.github.io/playground.html?layout=vgcwq%2Ffouy-hsrtjxnaei%3Dbmdlz%3Bp%2C.k%5C%27&mode=ergo&lan=english&thumb=l
+<img width="1234" height="1000" alt="image" src="https://github.com/user-attachments/assets/c600605d-9e55-449a-b669-8185610da985" />
+[https://cyanophage.github.io/playground.html?layout=vgdcq%2Ffouy%3Dhstrjxnaei-bpwlz%3Bm.%2Ck%5Cspace&mode=ergo&lan=english&thumb=r](https://cyanophage.github.io/playground.html?layout=vgdcq%2Ffouy%5Ehstrjxnaei-bpwlz%3Bm%2C.k%5Cspace&mode=ergo&lan=english&thumb=r)
+
 
 ## Ranking
-Word effort 397.61, rank #4 (rank #1 among non-e/r mods).
-Total word effort 914.8
+Word effort 393.58, rank #3 (rank #1 among non-e/r mods).
+Total word effort 938.9
 
 ## Reasons to hate Monium_t 
 - Not good for VIM motions, needs to be walked around by using a navigation layer.
