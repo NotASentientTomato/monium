@@ -28,7 +28,7 @@ h s t r j  x n a e i
 b m w l z  ; y k , .
 ```
 <img width="1226" height="992" alt="image" src="https://github.com/user-attachments/assets/0d176789-77c5-4500-adc0-f7a0f342a304" />
-[https://cyanophage.github.io/playground.html?layout=vgdcq%2Ffou.%5Ehstrjxnaei-bpwlz%3Bmy%2Ck%5Cspace&mode=ergo&lan=english&thumb=r](https://cyanophage.github.io/playground.html?layout=vgdcq%2Ffoup-hstrjxnaei%27bmwlz%3Byk.%2C%5C%5E&mode=ergo&lan=english&thumb=l)
+cyanophage.github.io/playground.html?layout=vgdcq%2Ffoup-hstrjxnaei%27bmwlz%3Byk.%2C%5C%5E&mode=ergo&lan=english&thumb=l
 
 
 ## Ranking
