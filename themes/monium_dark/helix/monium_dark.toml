@@ -5,17 +5,6 @@
   # the line that seperate the typing field from the list items in picker panels, like the File Picker
 "ui.background.separator" =                   { fg="s3"}
 
-"ui.cursor.normal" =                          { bg="s2", fg="s9" }
-  # # when using multiple cursors, the cursor which are not the primary has the following appearence where the cursor is on the selected words
-"ui.cursor.insert" =                          { bg="cursor", fg="s9" }
-"ui.cursor.select" =                          { bg="cursor", fg="s9" }
-  # a second cursor that finds any matching symbol, such as selecting the other of these when one is selected ""
-"ui.cursor.match" =                           { bg="s4", fg="s9" }
-  # # primary: the cursor you move around with hkjl
-"ui.cursor.primary" =                         { bg="cursor", fg="s9" }
-"ui.cursor.primary.normal" =                  { bg="cursor", fg="s9" }
-"ui.cursor.primary.insert" =                  { bg="cursor", fg="s9" }
-"ui.cursor.primary.select" =                  { bg="cursor", fg="s9" }
 
 "ui.debug.breakpoint" =                       { fg="red" }
 "ui.debug.active" =                           { fg="green" }
@@ -95,10 +84,22 @@
 "ui.highlight.frameline" =                    { bg="s1", fg="s8" }
   # the line where the primary cursor is (when using multiple cursors, such as when searching for something within the selected text (%s)
 
+"ui.cursor.normal" =                          { bg="s2", fg="s9" }
+  # # when using multiple cursors, the cursor which are not the primary has the following appearence where the cursor is on the selected words
+"ui.cursor.insert" =                          { bg="cursor", fg="s9" }
+"ui.cursor.select" =                          { bg="cursor", fg="s9" }
+  # a second cursor that finds any matching symbol, such as selecting the other of these when one is selected ""
+"ui.cursor.match" =                           { bg="s4", fg="s9" }
+  # # primary: the cursor you move around with hkjl
+"ui.cursor.primary" =                         { bg="cursor", fg="s9" }
+"ui.cursor.primary.normal" =                  { bg="cursor", fg="s9" }
+"ui.cursor.primary.insert" =                  { bg="cursor", fg="s9" }
+"ui.cursor.primary.select" =                  { bg="cursor", fg="s9" }
+
 "ui.cursorline" =                             { bg="s7", fg="s1" }
-"ui.cursorline.primary" =                     { bg="s7", fg="s1" }
-"ui.cursorline.secondary" =                   { bg="s6", fg="s1" }
-"ui.cursorcolumn.primary" =                   { bg="s7" }
+"ui.cursorline.primary" =                     { bg="s5h", fg="s1" }
+"ui.cursorline.secondary" =                   { bg="s4", fg="s1" }
+"ui.cursorcolumn.primary" =                   { bg="s5h" }
 "ui.cursorcolumn.secondary" =                 { bg="s6" }
 
   # things like id, type, format...
@@ -257,13 +258,14 @@ info = "#00ff00"
 red = "#a93636"
 green = "#065905"
 blue = "#6666aa"
-cursor = "#3388ea"
+cursor = "#636361"
 
 
 s9 = "#fffffd"
 s8 = "#fafaf6"
 s7 = "#efefed"
 s6 = "#d2d2d0"
+s5h = "#b3b3b6"
 s5 = "#bababd"
 s5l = "#afafaf"
 s4 = "#a1a1a1"
