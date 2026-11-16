@@ -4,7 +4,7 @@ foreground = '#333331'
 
 [colors.cursor]
 text = '#fafaf1'
-cursor = '#3388ea'
+cursor = '#333331'
 
 [colors.vi_mode_cursor]
 text = '#bababd'
