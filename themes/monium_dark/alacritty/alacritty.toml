@@ -1,18 +1,13 @@
 [general]
 import = [
     "~/.config/alacritty/themes/monium_dark_noctalia.toml",
+    "~/.config/alacritty/fonts.toml",
 ]
 
 [window]
 decorations = "None"
 padding = { x = 12, y = 12 }
 opacity = 1.0
-
-[font]
-normal = { family = "JetBrains Mono Variable", style = "Regular" }
-# bold = { family = "FiraCode Nerd Font", style = "Bold" }
-# italic = { family = "JetBrainsMono Nerd Font Mono", style = "Italic" }
-size = 12
 
 [scrolling]
 history = 3023
