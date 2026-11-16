@@ -1,4 +1,4 @@
-#Setup
+# Setup
 
 Add the themes folder to the ~/.config/zellij directory
 
